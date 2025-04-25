@@ -153,7 +153,7 @@ generate_plots_from_excel <- function(file_path = "data_template.xlsx") {
 # -----------------------------
 # Step 1: Run this once to create the Excel template.
 # Uncomment the following line to create the template:
-# create_excel_template("data_template.xlsx")
+create_excel_template("data_template.xlsx")
 
 # Step 2: Open "data_template.xlsx", fill in your data for both Graph2 and Graph3, and save the file.
 # Step 3: Place the filled Excel file in the same directory as this script.
